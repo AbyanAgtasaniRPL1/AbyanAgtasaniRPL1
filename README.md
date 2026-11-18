@@ -33,5 +33,5 @@ Saya seorang **Web Developer** yang berfokus pada pengembangan aplikasi web mode
 #### 📫 Terhubung dengan Saya
 - 📍 Berbasis di Kudus, Jawa Tengah
 - 💼 Layanan Web & Desain: **BCD Tech**
-- 📧 Email: `[masukkan-email-anda@domain.com]`
-- 🌐 Portfolio: `[https://domain-portfolio-anda.com]`
+- 📧 Email: `abyanagtaa@gmail.com`
+- 🌐 Portfolio: ``
